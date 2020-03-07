@@ -1,5 +1,5 @@
 #
-# Small FTP server for ESP8266 ESP32 in Micropython and Python 3.7
+# Small FTP server for  ESP32 in Micropython and Python 3.7 not working on ESP8266
 # Based on the work of Chrisgp - Christopher Popp and Pfalcon - Paul Sokolovsky
 #
 # The server accepts active and passive mode. It runs in the background. and uses thread
